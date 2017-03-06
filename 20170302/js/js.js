@@ -543,6 +543,7 @@ function iniciaArray(){
 			}
 			]
 	/**/
-	
+	console.log("--- Init array ---");
+	console.log(JSON.stringify(produtos,compras,vendas));
 	return(0)
 }
